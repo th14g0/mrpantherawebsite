@@ -59,5 +59,30 @@
     <mapping directory="$PROJECT_DIR$/pelican-themes/pelican-cait" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pelican-themes/pelican-fh5co-marble" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pelican-themes/pelican-hss" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/pelican-mockingbird" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/pelican-simplegrey" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/pelican-sober" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/pelican-twitchy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/pelicanthemes-generator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/pjport" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/plumage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/pujangga" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/pure" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/relapse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/resume" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/semantic-ui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/smoothie" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/sora" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/storm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/sundown" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/svbhack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/svbtle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/taman" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/twenty-html5up" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/voce" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/voidy-bootstrap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/w3-personal-blog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/water-iris" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican-themes/yapeme" vcs="Git" />
   </component>
 </project>
